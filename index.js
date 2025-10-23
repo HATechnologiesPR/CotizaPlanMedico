@@ -59,8 +59,8 @@ function mostrarServicios() {
 function agregarContacto() {
   const vCardData = `BEGIN:VCARD
 VERSION:3.0
-FN:MCS - Wallesca Méndez
-N:Méndez;Wallesca;;;
+FN:Wallesca Méndez
+N:Méndez;MCS - Wallesca;;;
 ORG:Cotiza Plan Médico;
 TEL;TYPE=CELL:787-585-4322
 EMAIL:cotizaplanmedico@outlook.com
